@@ -1,6 +1,6 @@
 # GFPGAN (CVPR 2021)
 
-Suggestion - You can easily play with the magic first [Colab Demo](https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo) by uploading any of your parent's or grandparent's images and have fun.
+Anwai's Suggestion - You can easily play with the magic first [Colab Demo](https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo) by uploading any of your parent's or grandparent's images and have fun.
 
 [![download](https://img.shields.io/github/downloads/TencentARC/GFPGAN/total.svg)](https://github.com/TencentARC/GFPGAN/releases)
 [![PyPI](https://img.shields.io/pypi/v/gfpgan)](https://pypi.org/project/gfpgan/)
